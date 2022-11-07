@@ -10,6 +10,13 @@
 ### Tutorial
 
 - [IMA-ADPCM 算法 by 云风](https://www.codingnow.com/text/adpcm.htm)
+- [Continuously Variable Slope Delta Modulation : A Tutorial](https://www.raffia.ch/content/datasheets/volume01/Tutorial_DeltaMod_CVSD_MxCom.pdf)
+- [Encoders and Decoders by elprocus](https://www.elprocus.com/encoders-and-decoders/)
+- [Pulse Code Modulation and Demodulation by elprocus](https://www.elprocus.com/pulse-code-modulation-and-demodulation/)
+- [Differential Pulse Code Modulation Working and Application by elprocus](https://www.elprocus.com/differential-pulse-code-modulation-working-application/)
+- [Adaptive Differential Pulse Code Modulation – ADPCM by elprocus](https://www.elprocus.com/adaptive-differential-pulse-code-modulation-adpcm/)
+- [G.726 Adaptive Differential Pulse Code Modulation(ADPCM) on the TMS320C54x DSP](https://www.ti.com/lit/an/spra118/spra118.pdf)
+- [Adaptive Differential Pulse Code Modulation using PICmicro™ Microcontrollers](https://ww1.microchip.com/downloads/en/AppNotes/00643b.pdf)
 
 ## OPUS : https://opus-codec.org/
 
