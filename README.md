@@ -9,6 +9,7 @@
 
 ### Tutorial
 
+- [Dialogic ADPCM Algorithm](http://www.mp3-tech.org/programmer/docs/adpcm.pdf)
 - [IMA-ADPCM 算法 by 云风](https://www.codingnow.com/text/adpcm.htm)
 - [Continuously Variable Slope Delta Modulation : A Tutorial](https://www.raffia.ch/content/datasheets/volume01/Tutorial_DeltaMod_CVSD_MxCom.pdf)
 - [Encoders and Decoders by elprocus](https://www.elprocus.com/encoders-and-decoders/)
