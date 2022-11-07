@@ -6,6 +6,8 @@
 - computation time
 - ROM/RAM
 - https://devzone.nordicsemi.com/cfs-file/__key/communityserver-discussions-components-files/4/nRF-ready-Smart-Remote-3-for-nRF52-Series-software-files.zip
+- [The ADPCM algorithm in STM32F1xx and STM32L1xx microcontrollers](https://www.st.com/en/embedded-software/stsw-stm32022.html)
+
 
 ### Tutorial
 
