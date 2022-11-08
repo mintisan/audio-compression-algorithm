@@ -4,6 +4,7 @@
 - [Audio Formats Comparison](https://stsaz.github.io/fmedia/audio-formats/)
 - [CODEC Considerations](https://www.embedded.com/codec-considerations/)
 - [Lossless comparison](https://wiki.hydrogenaud.io/index.php?title=Lossless_comparison)
+- [Comparative Analysis of Modern Formats of Lossy Audio Compression](https://ceur-ws.org/Vol-2654/paper25.pdf)
 
 ## ST 
 
