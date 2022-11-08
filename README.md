@@ -49,6 +49,8 @@
 - [xiph/vorbis](https://github.com/xiph/vorbis)
 - [Ogg Vorbis decoding with STM32F103RE works!](https://community.st.com/s/question/0D50X00009Xki7bSAB/ogg-vorbis-decoding-with-stm32f103re-works)
 
+## [FLAC](https://xiph.org/flac/)
+
 ## [Low Complexity Communication Codec](https://www.bluetooth.org/DocMan/handlers/DownloadDoc.ashx?doc_id=502107&vId=542963)
 - [google/liblc3](https://github.com/google/liblc3)
 - [zephyrproject-rtos/liblc3codec](https://github.com/zephyrproject-rtos/liblc3codec)
