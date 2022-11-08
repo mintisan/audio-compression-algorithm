@@ -1,5 +1,17 @@
 # audio-compression-algorithm
 
+- [A comparison of Internet audio compression formats](https://sericyb.com.au/audio.html)
+
+## ST 
+
+- [STSW-STM32022](https://www.st.com/en/embedded-software/stsw-stm32022.html) : The ADPCM algorithm in STM32F1xx and STM32L1xx microcontrollers【ADPCM】
+- [STM32-AUDIO100A](https://www.st.com/en/embedded-software/stm32-audio100a.html) : STM32 Audio processing SW library【】
+- [X-CUBE-AUDIO](https://www.st.com/en/embedded-software/x-cube-audio.html) : Audio effects software expansion for STM32Cube【MP3】
+- [X-CUBE-OPUS](https://www.st.com/en/embedded-software/x-cube-opus.html) : Opus evaluation and profiling software expansion for STM32Cube【Opus】
+- [FP-AUD-SMARTMIC1](https://www.st.com/content/st_com/en/products/embedded-software/mcu-mpu-embedded-software/stm32-embedded-software/stm32-ode-function-pack-sw/fp-aud-smartmic1.html) : STM32Cube function pack for MEMS microphone acquisition, advanced audio processing and audio output
+- [FP-AUD-BVLINKWB1](https://www.st.com/en/embedded-software/fp-aud-bvlinkwb1.html) : STM32Cube function pack for STM32WB MCU featuring full-duplex audio streaming over Bluetooth 5.0 using Opus codec【Opus】
+
+
 ## ADPCM : 
 
 - ratio
@@ -28,3 +40,9 @@
 - ROM/RAM
 - code : https://www.st.com/en/evaluation-tools/stm32-nucleo-expansion-boards.html
 - https://devzone.nordicsemi.com/cfs-file/__key/communityserver-discussions-components-files/4/nRF-ready-Smart-Remote-3-for-nRF52-Series-software-files.zip
+
+## [Low Complexity Communication Codec](https://www.bluetooth.org/DocMan/handlers/DownloadDoc.ashx?doc_id=502107&vId=542963)
+- [google/liblc3](https://github.com/google/liblc3)
+- [zephyrproject-rtos/liblc3codec](https://github.com/zephyrproject-rtos/liblc3codec)
+
+## MP3
