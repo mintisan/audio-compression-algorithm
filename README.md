@@ -6,6 +6,7 @@
 - [Lossless comparison](https://wiki.hydrogenaud.io/index.php?title=Lossless_comparison)
 - [Comparative Analysis of Modern Formats of Lossy Audio Compression](https://ceur-ws.org/Vol-2654/paper25.pdf)
 - [Lossy audio formats comparison](https://www.bobulous.org.uk/misc/lossy_audio_2006.html)
+- [19种音频格式介绍及音质压缩比的比较](https://blog.csdn.net/nimeghbia/article/details/79084063)
 
 ## ST 
 
