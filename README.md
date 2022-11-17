@@ -42,6 +42,10 @@
 
 ## OPUS : https://opus-codec.org/
 
+> Opus是一个有损音频压缩的数字音频编码格式，由Xiph.Org基金会开发，之后由互联网工程任务组进行标准化，目标是希望用单一格式包含声音和语音，取代Speex和Vorbis，且适用于网络上低延迟的即时声音传输，标准格式定义于RFC 6716文件。Opus格式是一个开放格式，使用上没有任何专利或限制。
+Opus集成了两种声音编码的技术：以语音编码为导向的SILK和低延迟的CELT。Opus可以无缝调节高低比特率。在编码器内部它在较低比特率时使用线性预测编码在高比特率时候使用变换编码。Opus具有非常低的算法延迟，非常适合用于低延迟语音通话的编码，像是网络上的即时声音流、即时同步声音旁白等等，此外Opus也可以透过降低编码比特率，达成更低的算法延迟，最低可以到5 ms。在多个听觉盲测中，Opus都比MP3、AAC、HE-AAC等常见格式，有更低的延迟和更好的声音压缩率。
+https://artsandculture.google.com/entity/m0gvvjrm?hl=zh
+
 - ratio
 - computation time
 - ROM/RAM
