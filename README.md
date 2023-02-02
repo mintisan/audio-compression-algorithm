@@ -65,3 +65,9 @@ https://artsandculture.google.com/entity/m0gvvjrm?hl=zh
 - [zephyrproject-rtos/liblc3codec](https://github.com/zephyrproject-rtos/liblc3codec)
 
 ## MP3
+
+## Other
+
+- [Simple Lossless Audio Compressor](https://github.com/dbry/slac)
+- [Quite OK Audio Format](https://github.com/phoboslab/qoa)
+  - [Time Domain Audio Compression at 3.2 bits per Sample](https://phoboslab.org/log/2023/02/qoa-time-domain-audio-compression)
